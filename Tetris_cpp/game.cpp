@@ -44,12 +44,4 @@ void unit(int x, int y){ // Draw a lines that forms a square
 
 }
 
-void shapes(int form_id){
 
-    int x = 0, y = 0;
-    //L
-    if(form_id == 1){
-        glRectd(x + 2, y + 4, x + 4, y + 8);
-    }
-
-}

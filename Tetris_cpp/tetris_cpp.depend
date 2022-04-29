@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1651202622 source:c:\users\lucas\desktop\faculdade\2° período\programação de computadores\tetris\tetris_cpp\main.cpp
+1651253007 source:c:\users\lucas\desktop\faculdade\2° período\programação de computadores\tetris\tetris_cpp\main.cpp
 	<GL/gl.h>
 	<GL/glut.h>
 	"game.h"
 
 1651200380 c:\users\lucas\desktop\faculdade\2° período\programação de computadores\tetris\tetris_cpp\game.h
 
-1651202021 source:c:\users\lucas\desktop\faculdade\2° período\programação de computadores\tetris\tetris_cpp\game.cpp
+1651253030 source:c:\users\lucas\desktop\faculdade\2° período\programação de computadores\tetris\tetris_cpp\game.cpp
 	<GL/gl.h>
 	<GL/glut.h>
 	"game.h"
